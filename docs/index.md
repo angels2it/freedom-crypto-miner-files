@@ -1,5 +1,12 @@
 
 <p align="center">
+  <h2>A new revenue stream for the entire Freedom! Family</h2>
+ <a href="https://goto.tm/crypto-miner" target="_blank">
+                            <button class="btn btn-info">
+                                Download Crypto Miner
+                            </button>
+                        </a>
+
   <div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/IJeUP_0qFio?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 </p>
 
